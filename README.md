@@ -9,6 +9,7 @@
    ```bash
    npm install express mongoose body-parser
 2. **Run the Log Ingestor:**
+   ```bash
 node log-ingestor.js
 
 **Endpoints**
@@ -21,9 +22,11 @@ The Log Ingestor uses MongoDB as the database. Ensure that MongoDB is running on
 ## Query Interface
 
 **Install Dependencies:**
+   ```bash
 npm install express mongoose body-parser
 
 **Run the Query Interface:**
+   ```bash
 node query-interface.js
 
 **Endpoints**
