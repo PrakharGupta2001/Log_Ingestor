@@ -21,11 +21,12 @@ The Log Ingestor uses MongoDB as the database. Ensure that MongoDB is running on
 
 ## Query Interface
 
-**Install Dependencies:**
+1. **Install Dependencies:**
    ```bash
    npm install express mongoose body-parser
 
-**Run the Query Interface:**
+
+2. **Run the Query Interface:**
    ```bash
    node query-interface.js
 
